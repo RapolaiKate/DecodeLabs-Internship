@@ -49,10 +49,6 @@ The cleaned dataset was validated to ensure that:
 - Unnecessary columns were removed.
 - The dataset remained suitable for analysis.
 
-## 🛠️ File Format
-
-**CSV (Comma-Separated Values)**
-
 ## 📌 Purpose
 
 This cleaned dataset represents the final output of the data-cleaning and validation process and is ready for further analysis.
