@@ -156,4 +156,4 @@ Project4_Data_Visualization/
     └── 07_Orders_by_Status.png
 
 
-## Author: Malesela Kate Rapolai
+**Author:** Malesela Kate Rapolai
