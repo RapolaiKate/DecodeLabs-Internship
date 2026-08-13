@@ -22,7 +22,6 @@ The dataset contained missing values, inconsistent data, and fields that require
 
 The dataset contains **1,200 e-commerce records** with the following fields:
 
-- ID
 - Order ID
 - Date
 - Customer ID
