@@ -154,3 +154,6 @@ Project4_Data_Visualization/
     ├── 05_Orders_by_Payment_Method.png
     ├── 06_Order_Status_PivotTable.png
     └── 07_Orders_by_Status.png
+
+
+## Author: Malesela Kate Rapolai
