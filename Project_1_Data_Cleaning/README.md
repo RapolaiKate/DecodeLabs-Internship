@@ -154,8 +154,14 @@ The project demonstrates practical data-cleaning skills, including:
 Project_1_Data_Cleaning/
 │
 ├── README.md
-├── Raw Dataset
-├── Cleaned Dataset
+├── Raw_Dataset/
+│   ├── README.md
+│   └── Raw_Dataset.csv
+├── Cleaned_Dataset/
+│   ├── README.md
+│   └── Cleaned_Dataset.csv
+└── Data_Cleaning_Report/
+    └── Data_Cleaning_Report.xlsx
 
 ## 👤 Author
 
