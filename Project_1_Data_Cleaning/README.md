@@ -152,16 +152,15 @@ The project demonstrates practical data-cleaning skills, including:
 
 ```text
 Project_1_Data_Cleaning/
-│
-├── README.md
-├── Raw_Dataset/
-│   ├── README.md
-│   └── Raw_Dataset.csv
 ├── Cleaned_Dataset/
 │   ├── README.md
-│   └── Cleaned_Dataset.csv
-└── Data_Cleaning_Report/
-    └── Data_Cleaning_Report.xlsx
+│   └── Cleaned_Dataset.xlsx
+├── Data_Cleaning_Report/
+│   ├── README.md
+│   └── Data_Cleaning_Report.pdf
+|── Raw_Dataset/
+|    └── Raw_Dataset.xlsx
+|___ README.md
 
 ## 👤 Author
 
